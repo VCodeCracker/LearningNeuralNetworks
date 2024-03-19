@@ -1,0 +1,1 @@
+for changing purpuse of the neural network use for best results sigmoidNetworkFor handwritig most methods shouldnt be change but consider to change the evalute methad, networkAPP class and Util Class.
